@@ -1,0 +1,30 @@
+# Access Control Policy
+
+**Version:** 1.0  
+**Author:** Michael Attoh  
+**Effective Date:** January 2024 
+**Classification:** Internal Use Only  
+
+## 1. Purpose
+This policy establishes requirements to ensure that access to information systems and data is controlled, authorized, and monitored to protect the confidentiality, integrity, and availability of assets.
+
+## 2. Scope
+Applies to all employees, contractors, and third parties who access company systems, applications, or data.
+
+## 3. Policy Statement
+- Access shall be granted based on the principle of **least privilege** and **need-to-know**.
+- All user access must be approved by the system owner and documented.
+- Multi-factor authentication (MFA) must be enabled for all privileged and remote access accounts.
+- Accounts of terminated employees shall be disabled immediately upon exit.
+- System administrators shall review user access rights **quarterly** to ensure continued validity.
+
+## 4. Responsibilities
+- **IT Department:** Implement and maintain access control systems.
+- **Managers:** Approve and review user access requests.
+- **Employees:** Safeguard login credentials and report suspicious activity.
+
+## 5. Enforcement
+Violations of this policy may result in disciplinary action, including termination and possible legal consequences.
+
+## 6. Review Cycle
+This policy shall be reviewed annually or when significant system changes occur.
